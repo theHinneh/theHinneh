@@ -1,37 +1,51 @@
-name: GitHub metrics
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Metrics
 on:
-  schedule:
-    - cron: "0 * * * *"
-  push:
-    branches:
-      - master
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-
+  push: {branches: ["master", "main"]}
 jobs:
-  github-metrics-personal:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-
-      - name: Personal metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
+          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: "header, activity, repositories"
-          plugin_lines: yes
-          plugin_isocalendar: yes
-          plugin_traffic: yes
-          plugin_languages: yes
-          plugin_languages_ignored: jupyter%20notebook
-          plugin_languages_skipped: ''
+
+          # Options
+          user: thehinneh
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_display: columns
+          config_timezone: Africa/Accra
           plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14 
-          plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugin_gists: yes
-          plugin_topics: yes
-          plugin_topics_sort: stars
-          plugin_topics_limit: 15
-          config_timezone: Africa/Ghana
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_trim: yes
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_url: .user.website
+          # plugin_repositories: 100
+          plugin_repositories: yes
+          plugin_repositories_affiliations: owner
+          plugin_repositories_batch: 100
+          plugin_traffic: yes
