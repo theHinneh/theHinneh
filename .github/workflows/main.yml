@@ -63,3 +63,8 @@ jobs:
           plugin_skyline_year: current-year
           plugin_stargazers: yes
           plugin_traffic: yes
+          config_padding: 10%
+          plugin_lines: yes
+          plugin_topics: yes
+          plugin_topics_sort: stars
+          plugin_topics_limit: 15
