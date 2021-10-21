@@ -1,4 +1,5 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+# https://metrics.lecoq.io
 name: Metrics
 on:
   # Schedule updates (each hour)
@@ -18,11 +19,12 @@ jobs:
           # Options
           user: thehinneh
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, metadata
           config_display: columns
           config_timezone: Africa/Accra
           plugin_achievements: yes
           plugin_achievements_display: compact
+          plugin_achievements_limit: 4
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: X
           plugin_followup: yes
@@ -30,12 +32,10 @@ jobs:
           plugin_gists: yes
           plugin_habits: yes
           plugin_habits_charts: yes
-          plugin_habits_days: 14
+          plugin_habits_days: 365
           plugin_habits_facts: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 365
           plugin_habits_trim: yes
-          plugin_introduction: yes
-          plugin_introduction_title: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
@@ -51,13 +51,15 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
-          plugin_skyline_compatibility: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
+          plugin_pagespeed_screenshot: yes
+          # plugin_repositories: 100
           plugin_repositories: yes
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
           plugin_skyline: yes
+          plugin_skyline_compatibility: yes
+          plugin_skyline_frames: 200
+          plugin_skyline_quality: 0.5
           plugin_skyline_year: current-year
           plugin_stargazers: yes
           plugin_traffic: yes
