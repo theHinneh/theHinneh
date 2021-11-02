@@ -63,6 +63,7 @@ jobs:
           plugin_skyline_year: current-year
           plugin_stargazers: yes
           plugin_traffic: yes
+          plugin_languages_ignored: html, css
 #           config_padding: 10%
 #           plugin_lines: yes
 #           plugin_topics: yes
