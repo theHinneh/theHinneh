@@ -3,7 +3,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 0 1 * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -18,7 +18,7 @@ jobs:
 
           # Options
           user: thehinneh
-          template: classic
+          template: terminal
           base: header, metadata
           config_display: columns
           config_timezone: America/New_York
