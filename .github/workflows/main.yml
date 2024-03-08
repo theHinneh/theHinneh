@@ -21,7 +21,7 @@ jobs:
           template: classic
           base: header, metadata
           config_display: columns
-          config_timezone: Africa/Accra
+          config_timezone: America/New_York
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_limit: 4
