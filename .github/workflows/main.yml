@@ -18,7 +18,7 @@ jobs:
 
           # Options
           user: thehinneh
-          template: terminal
+          template: repository
           base: header, metadata
           config_display: columns
           config_timezone: America/New_York
