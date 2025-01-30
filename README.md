@@ -9,33 +9,43 @@
 
 <!-- [![](./src/header_.png)](#) -->
 
-> <b>Data Scientist with a strong background in engineering and software development. | Proven problem-solver with experience in building scalable systems and delivering innovative solutions. | Thrives in cross-cultural teams and eager to drive impactful results.</b>
+> 🚀 **Data Scientist | Software Engineer | Problem Solver**
+>
+> - 🎯 **Strong engineering & software development background**
+> - 💡 **Builds scalable systems & innovative solutions**
+> - 🌍 **Thrives in cross-cultural teams & drives impactful results**
 
 ---
 
 ## 🛠️ Tech Stack:
-![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
-![Go](https://img.shields.io/badge/-Go-555?style=flat&logo=go)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-555?style=flat&logo=typescript)&nbsp;
-![C++ - Arduino](https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B&logoColor=fff)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-555?style=flat&logo=mysql)&nbsp;\
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-555?style=flat&logo=tensorflow)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-555?style=flat&logo=pytorch)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-555?style=flat&logo=pandas)&nbsp;
-![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-555?style=flat&logo=scikit-learn)&nbsp;\
-![Flask](https://img.shields.io/badge/-Flask-555?style=flat&logo=flask)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-555?style=flat&logo=angular)&nbsp;
-![React](https://img.shields.io/badge/-React-555?style=flat&logo=react)&nbsp;
-![FastAPI](https://img.shields.io/badge/-FastAPI-555?style=flat&logo=fastapi)&nbsp;\
-![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=docker)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-555?style=flat&logo=kubernetes)&nbsp;
-![Jenkins](https://img.shields.io/badge/-Jenkins-555?style=flat&logo=jenkins)&nbsp;\
-![AWS](https://img.shields.io/badge/-AWS-555?style=flat&logo=amazon-aws)&nbsp;
-![GCP](https://img.shields.io/badge/-GCP-555?style=flat&logo=google-cloud)&nbsp;
-![Hadoop](https://img.shields.io/badge/-Hadoop-555?style=flat&logo=apache-hadoop)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-555?style=flat&logo=mongodb)&nbsp;
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-555?style=flat&logo=python">
+  <img src="https://img.shields.io/badge/-Go-555?style=flat&logo=go">
+  <img src="https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript">
+  <img src="https://img.shields.io/badge/-TypeScript-555?style=flat&logo=typescript">
+  <img src="https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B">
+  <img src="https://img.shields.io/badge/-SQL-555?style=flat&logo=mysql">
+  <br>
+  <img src="https://img.shields.io/badge/-TensorFlow-555?style=flat&logo=tensorflow">
+  <img src="https://img.shields.io/badge/-PyTorch-555?style=flat&logo=pytorch">
+  <img src="https://img.shields.io/badge/-Pandas-555?style=flat&logo=pandas">
+  <img src="https://img.shields.io/badge/-Scikit_Learn-555?style=flat&logo=scikit-learn">
+  <br>
+  <img src="https://img.shields.io/badge/-Flask-555?style=flat&logo=flask">
+  <img src="https://img.shields.io/badge/-Angular-555?style=flat&logo=angular">
+  <img src="https://img.shields.io/badge/-React-555?style=flat&logo=react">
+  <img src="https://img.shields.io/badge/-FastAPI-555?style=flat&logo=fastapi">
+  <br>
+  <img src="https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js">
+  <img src="https://img.shields.io/badge/-Docker-555?style=flat&logo=docker">
+  <img src="https://img.shields.io/badge/-Kubernetes-555?style=flat&logo=kubernetes">
+  <img src="https://img.shields.io/badge/-Jenkins-555?style=flat&logo=jenkins">
+  <br>
+  <img src="https://img.shields.io/badge/-AWS-555?style=flat&logo=amazon-aws">
+  <img src="https://img.shields.io/badge/-GCP-555?style=flat&logo=google-cloud">
+  <img src="https://img.shields.io/badge/-Hadoop-555?style=flat&logo=apache-hadoop">
+  <img src="https://img.shields.io/badge/-MongoDB-555?style=flat&logo=mongodb">
+</p>
 
 ---
 
