@@ -1,15 +1,17 @@
 <p align="center">
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/thehinneh/thehinneh"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas/graphs/contributors"><img src="https://img.shields.io/github/contributors/vaibhavvikas/vaibhavvikas?color=blue"></a>
-    <a href="https://github.com/vaibhavvikas"><img src="https://img.shields.io/github/stars/vaibhavvikas"></a>
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas/network/members"><img src="https://img.shields.io/github/forks/vaibhavvikas/vaibhavvikas.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=vaibhavvikas.vaibhavvikas" alt="visitors"/>
+    <a href="https://github.com/thehinneh/thehinneh/graphs/contributors"><img src="https://img.shields.io/github/contributors/thehinneh/thehinneh?color=blue"></a>
+    <a href="https://github.com/thehinneh"><img src="https://img.shields.io/github/stars/thehinneh"></a>
+    <a href="https://github.com/thehinneh/thehinneh/network/members"><img src="https://img.shields.io/github/forks/thehinneh/thehinneh.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=thehinneh.thehinneh" alt="visitors"/>
 </p>
 
 <!-- [![](./src/header_.png)](#) -->
 
-> <b>Data Scientist with a strong background in engineering and software development. | Proven problem-solver with experience in building scalable systems and delivering innovative solutions. | Thrives in cross-cultural teams and eager to drive impactful results.</b>\
+> <b>Data Scientist with a strong background in engineering and software development. | Proven problem-solver with experience in building scalable systems and delivering innovative solutions. | Thrives in cross-cultural teams and eager to drive impactful results.</b>
+
+---
 
 ## 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
@@ -35,26 +37,50 @@
 ![Hadoop](https://img.shields.io/badge/-Hadoop-555?style=flat&logo=apache-hadoop)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-555?style=flat&logo=mongodb)&nbsp;
 
-## 📈 GitHub Activity Graph:
+---
+
+## 📈 GitHub Activity:
 
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/thehinneh#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=thehinneh&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/thehinneh#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=thehinneh&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/thehinneh#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehinneh&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/thehinneh#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehinneh&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td align="center">
+            <a href="https://github.com/thehinneh#gh-light-mode-only">
+                <img src="https://github-readme-stats.vercel.app/api?username=thehinneh&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/>
+            </a>
+            <a href="https://github.com/thehinneh#gh-dark-mode-only">
+                <img src="https://github-readme-stats.vercel.app/api?username=thehinneh&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/>
+            </a>
+        </td>
+        <td rowspan="2" align="center">
+            <a href="https://github.com/thehinneh#gh-light-mode-only">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehinneh&theme=default&langs_count=8#gh-light-mode-only" alt="Top Languages"/>
+            </a>
+            <a href="https://github.com/thehinneh#gh-dark-mode-only">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehinneh&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="Top Languages"/>
+            </a>
+        </td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/thehinneh#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thehinneh&theme=default"/></a><a href="https://github.com/thehinneh#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thehinneh&theme=tokyonight"/></a></td>
+        <td align="center">
+            <a href="https://github.com/thehinneh#gh-light-mode-only">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=thehinneh&theme=default" alt="GitHub Streak"/>
+            </a>
+            <a href="https://github.com/thehinneh#gh-dark-mode-only">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=thehinneh&theme=tokyonight" alt="GitHub Streak"/>
+            </a>
+        </td>
     </tr>
     <tr>
-        <td colspan="2" align="center"><a href="https://github.com/thehinneh#gh-light-mode-only"><img src="https://raw.githubusercontent.com/thehinneh/thehinneh/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/thehinneh#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/thehinneh/thehinneh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td colspan="2" align="center">
+            <a href="https://github.com/thehinneh#gh-light-mode-only">
+                <img src="https://raw.githubusercontent.com/thehinneh/thehinneh/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="GitHub Contribution Snake"/>
+            </a>
+            <a href="https://github.com/thehinneh#gh-dark-mode-only">
+                <img src="https://raw.githubusercontent.com/thehinneh/thehinneh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake"/>
+            </a>
+        </td>
     </tr>
 </table>
-
----
-
-### **📈 GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=thehinneh&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thehinneh&layout=compact&theme=radical)  
 
 ---
 
