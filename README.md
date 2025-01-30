@@ -73,15 +73,11 @@
     <tr>
         <td colspan="2" align="center">
             <a href="https://github.com/theHinneh#gh-light-mode-only">
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-                    <img alt="github-snake" src="github-snake.svg" />
-                </picture>
+                <img src="https://raw.githubusercontent.com/theHinneh/theHinneh/output/github-snake.svg#gh-light-mode-only" alt="GitHub Contribution Snake"/>
             </a>
-            <!-- <a href="https://github.com/theHinneh#gh-dark-mode-only">
-                <img src="https://raw.githubusercontent.com/theHinneh/output/main/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
-            </a> -->
+            <a href="https://github.com/theHinneh#gh-dark-mode-only">
+                <img src="https://raw.githubusercontent.com/theHinneh/theHinneh/output/github-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake"/>
+            </a>
         </td>
     </tr>
 </table>
