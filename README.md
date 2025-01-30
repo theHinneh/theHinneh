@@ -19,33 +19,42 @@
 
 ## 🛠️ Tech Stack:
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-555?style=flat&logo=python">
-  <img src="https://img.shields.io/badge/-Go-555?style=flat&logo=go">
-  <img src="https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript">
-  <img src="https://img.shields.io/badge/-TypeScript-555?style=flat&logo=typescript">
-  <img src="https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B">
-  <img src="https://img.shields.io/badge/-SQL-555?style=flat&logo=mysql">
-  <br>
-  <img src="https://img.shields.io/badge/-TensorFlow-555?style=flat&logo=tensorflow">
-  <img src="https://img.shields.io/badge/-PyTorch-555?style=flat&logo=pytorch">
-  <img src="https://img.shields.io/badge/-Pandas-555?style=flat&logo=pandas">
-  <img src="https://img.shields.io/badge/-Scikit_Learn-555?style=flat&logo=scikit-learn">
-  <br>
-  <img src="https://img.shields.io/badge/-Flask-555?style=flat&logo=flask">
-  <img src="https://img.shields.io/badge/-Angular-555?style=flat&logo=angular">
-  <img src="https://img.shields.io/badge/-React-555?style=flat&logo=react">
-  <img src="https://img.shields.io/badge/-FastAPI-555?style=flat&logo=fastapi">
-  <br>
-  <img src="https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js">
-  <img src="https://img.shields.io/badge/-Docker-555?style=flat&logo=docker">
-  <img src="https://img.shields.io/badge/-Kubernetes-555?style=flat&logo=kubernetes">
-  <img src="https://img.shields.io/badge/-Jenkins-555?style=flat&logo=jenkins">
-  <br>
-  <img src="https://img.shields.io/badge/-AWS-555?style=flat&logo=amazon-aws">
-  <img src="https://img.shields.io/badge/-GCP-555?style=flat&logo=google-cloud">
-  <img src="https://img.shields.io/badge/-Hadoop-555?style=flat&logo=apache-hadoop">
-  <img src="https://img.shields.io/badge/-MongoDB-555?style=flat&logo=mongodb">
+    <table>
+        <tr>
+            <td><img src="https://img.shields.io/badge/-Python-555?style=flat&logo=python"></td>
+            <td><img src="https://img.shields.io/badge/-Go-555?style=flat&logo=go"></td>
+            <td><img src="https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript"></td>
+            <td><img src="https://img.shields.io/badge/-TypeScript-555?style=flat&logo=typescript"></td>
+            <td><img src="https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B&logoColor=fff"></td>
+            <td><img src="https://img.shields.io/badge/-SQL-555?style=flat&logo=mysql"></td>
+        </tr>
+        <tr>
+            <td><img src="https://img.shields.io/badge/-TensorFlow-555?style=flat&logo=tensorflow"></td>
+            <td><img src="https://img.shields.io/badge/-PyTorch-555?style=flat&logo=pytorch"></td>
+            <td><img src="https://img.shields.io/badge/-Pandas-555?style=flat&logo=pandas"></td>
+            <td><img src="https://img.shields.io/badge/-Scikit_Learn-555?style=flat&logo=scikit-learn"></td>
+            <td><img src="https://img.shields.io/badge/-Hadoop-555?style=flat&logo=apache-hadoop"></td>
+            <td><img src="https://img.shields.io/badge/-MongoDB-555?style=flat&logo=mongodb"></td>
+        </tr>
+        <tr>
+            <td><img src="https://img.shields.io/badge/-Flask-555?style=flat&logo=flask"></td>
+            <td><img src="https://img.shields.io/badge/-FastAPI-555?style=flat&logo=fastapi"></td>
+            <td><img src="https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js"></td>
+            <td><img src="https://img.shields.io/badge/-React-555?style=flat&logo=react"></td>
+            <td><img src="https://img.shields.io/badge/-Angular-555?style=flat&logo=angular"></td>
+            <td><img src="https://img.shields.io/badge/-Docker-555?style=flat&logo=docker"></td>
+        </tr>
+        <tr>
+            <td><img src="https://img.shields.io/badge/-Kubernetes-555?style=flat&logo=kubernetes"></td>
+            <td><img src="https://img.shields.io/badge/-Jenkins-555?style=flat&logo=jenkins"></td>
+            <td><img src="https://img.shields.io/badge/-AWS-555?style=flat&logo=amazon-aws"></td>
+            <td><img src="https://img.shields.io/badge/-GCP-555?style=flat&logo=google-cloud"></td>
+            <td><img src="https://img.shields.io/badge/-Terraform-555?style=flat&logo=terraform"></td>
+            <td><img src="https://img.shields.io/badge/-Ansible-555?style=flat&logo=ansible"></td>
+        </tr>
+    </table>
 </p>
+
 
 ---
 
