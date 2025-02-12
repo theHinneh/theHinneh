@@ -70,14 +70,14 @@
                 <img src="https://github-readme-stats.vercel.app/api?username=theHinneh&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/>
             </a>
         </td>
-        <td rowspan="2" align="center">
+<!--         <td rowspan="2" align="center">
             <a href="https://github.com/theHinneh#gh-light-mode-only">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theHinneh&theme=default&langs_count=8#gh-light-mode-only" alt="Top Languages"/>
             </a>
             <a href="https://github.com/theHinneh#gh-dark-mode-only">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theHinneh&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="Top Languages"/>
             </a>
-        </td>
+        </td> -->
     </tr>
     <tr>
         <td align="center">
