@@ -9,11 +9,7 @@
 
 <!-- [![](./src/header_.png)](#) -->
 
-> 🚀 **Data Scientist | Software Engineer | Problem Solver**
->
-> - 🎯 **Strong engineering & software development background**
-> - 💡 **Builds scalable systems & innovative solutions**
-> - 🌍 **Thrives in cross-cultural teams & drives impactful results**
+> 🚀 **Data | Software | Cloud**
 
 ---
 
